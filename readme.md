@@ -1,4 +1,4 @@
-# UW-Project-1 : Newsletter
+# UW-Project-1 : Newsletter Made Ez
 
 # Goal : 
 
@@ -7,6 +7,8 @@ Build Newsletter application using **NewsCatcher API**, **Hoaxy API**, **IP Geol
 # Motivation : 
 
 To provide users with an all-in-one experience to retrieve top stories in different categories within country, fact check news and weather information from the user’s location. User can also search news articles for specific topic.
+
+# Screenshots : 
 
 |Medium Devices/ Laptop|Small Devices/ Tablet|Extra Small Devices/Phone
 |--|--|--
